@@ -1,0 +1,5 @@
+The relevant part in A4 (['cardiomegaly']) to A5 is "When assess cardiac size, cardiothoracic ratio is over 50 and not in the normal range."
+
+The causal statement relating the findings A1~4 could be: 
+
+"Causal Exploration: The finding of 'cardiomegaly' (A1) in the locations ['Mediastinum', 'Middle Mediastinum(Heart)', 'Right Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Ventricle', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Ventricle'] (A2) with location information [{'begin': 9, 'end': 12}] (A3) is causally related to the observation that the cardiothoracic ratio is over 50 and not in the normal range. This indicates an enlargement of the heart, which is consistent with the diagnosis of 'cardiomegaly'."
