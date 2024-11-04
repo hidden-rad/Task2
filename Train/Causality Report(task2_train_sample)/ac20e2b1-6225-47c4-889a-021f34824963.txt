@@ -1,0 +1,5 @@
+In the list A4, the word relevant to A5 is 'mass'. 
+
+The causal statement relating the findings of A1~4 could be: 
+
+"Causal Explanation: A mass was detected (A1) in the Parenchyme of the Left Upper Lobe (A2), at the location specified by the coordinates {'begin': 5, 'end': 6} (A3). This mass could potentially cause an abnormal increase in density area, as mentioned in one of the statements of A5. Further medical investigation is needed to determine the nature and cause of this mass."
