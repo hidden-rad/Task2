@@ -1,4 +1,5 @@
-# Task 2 README: Regenerating Diagnostic Processes and Reports
+# Task 2 README: 
+# Regenerating Diagnostic Processes and Reports
 
 Overview
 This task focuses on generating reports based on crowd-sourced diagnostic impressions It aims to simulate the decision-making process of radiologists and produce an report that includes findings from initial impressions to final conclusions.
