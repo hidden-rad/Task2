@@ -1,5 +1,4 @@
-# Task 2 
-# Regenerating Diagnostic Processes and Reports
+# Task 2 : Regenerating Diagnostic Processes and Reports
 
 ## Introduction
 Task 2 focuses on generating a diagnostic reasoning report that reflects the structured diagnostic flow used by radiologists. Using crowd-sourced data that simulates the radiologist’s diagnostic process, participants are tasked with creating a causality-focused report based on the A5-ABCDE approach. This approach aligns with the standardized diagnostic structure in radiology and provides insights into the reasoning process from initial observations to final conclusions.
