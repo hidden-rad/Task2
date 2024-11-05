@@ -41,3 +41,4 @@ The output is a report that encapsulates the causality within the radiologists' 
 **Validation and Case Matching**: Match each report with the ground-truth data associated with the Case_ID to validate the accuracy and completeness of your causality reasoning.<br>
 
 ## Example Output Structure
+![Example for Task 2](./images/Task2_ex.png "Task 2 Overview")
