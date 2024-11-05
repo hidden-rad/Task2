@@ -1,5 +1,0 @@
-The part in A4 relevant to A5 is 'cardiomegaly'. 
-
-The causal statement relating the findings of A1~4 is:
-
-'Causal Exploration': The finding of 'cardiomegaly' (A1) was identified in the locations ['Mediastinum', 'Middle Mediastinum(Heart)', 'Left Ventricle', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Ventricle', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Atrium'] (A2) as specified by the location information [{'begin': 5, 'end': 8}] (A3). This cardiomegaly could be the cause of the abnormal cardiothoracic ratio observed in the statement from A5, "When assess cardiac size, cardiothoracic ratio is over 50 and not in the normal range.", as this condition typically results in an enlarged heart size which can alter the cardiothoracic ratio.

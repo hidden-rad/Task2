@@ -1,9 +1,0 @@
-The word 'pneumomediastinum' in A4 is relevant to the finding 'pneumomediastinum' in A5. 
-
-pneumomediastinum is a condition where air is present in the mediastinum, the central compartment of the thoracic cavity. This can occur due to various reasons such as trauma, certain medical procedures, or spontaneously. 
-
-The causal statement for A1~4 could be: "The finding of [nan] at location information [nan] and [nan], is potentially caused by pneumomediastinum. This condition is observed when there is air in the mediastinum, which could lead to various observations such as widened mediastinum, subcutaneous emphysema, or free gas under diaphragms."
-
-Adding 'Causal Exploration' to the statement would look like this:
-
-"Causal Exploration: The finding of [nan] at location information [nan] and [nan], could be the result of pneumomediastinum. This condition occurs when air leaks into the mediastinum, which can cause several radiological findings including widening of the mediastinum, presence of subcutaneous emphysema, or visualization of free gas under the diaphragms."

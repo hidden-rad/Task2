@@ -1,8 +1,0 @@
-From A4, both 'metastasis' and 'pleural effusion' are relevant to A5. 
-
-Metastasis refers to the spread of cancer cells from the place where they first formed to another part of the body. In the case of lung cancer, metastasis might occur in the 'Parenchyme', 'RML(Right Middle Lobe)', 'RUL(Right Upper Lobe)', 'RLL(Right Lower Lobe)', 'LLL(Left Lower Lobe)', 'LUL(Left Upper Lobe)', 'Left Pleural', or 'Right Pleural'. This spread of cancer cells might lead to symptoms such as an abnormally increased density area, asymmetry in lung zones, and a mediastinal width that has been widened by more than 8cm. 
-
-Pleural effusion refers to the buildup of excess fluid between the layers of the pleura, the two thin layers of tissue that line the lungs and the chest cavity. This might be found in the 'Parenchyme', 'RML(Right Middle Lobe)', 'RUL(Right Upper Lobe)', 'RLL(Right Lower Lobe)', 'LLL(Left Lower Lobe)', 'LUL(Left Upper Lobe)', 'Left Pleural', or 'Right Pleural'. Symptoms of pleural effusion might include asymmetry in lung zones, an abnormally increased density area, and a blunting of the costophrenic angle.
-
-Causal Exploration:
-The findings of metastasis and pleural effusion in A1~4 are causally related to the symptoms identified in A5. The spread of cancer cells in metastasis or the buildup of excess fluid in pleural effusion can lead to changes in the lungs and chest cavity, including an increase in density, asymmetry, and other abnormalities. These changes can be identified through medical imaging and examination, helping to diagnose and track the progress of these conditions.
