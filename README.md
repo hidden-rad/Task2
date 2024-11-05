@@ -37,6 +37,7 @@ The output is a report that encapsulates the causality within the radiologists' 
 
 ## Process
 Utilize Diagnostic Flow Data: Use the diagnostic flow data (A1-A4) to reconstruct the reasoning path of a radiologist, simulating the process they might follow when examining similar cases.<br>
+
 **Generate Report Using Custom Model**: Develop your own method to integrate A1 through A4 into a coherent diagnostic report.<br>
 **Validation and Case Matching**: Match each report with the ground-truth data associated with the Case_ID to validate the accuracy and completeness of your causality reasoning.<br>
 
