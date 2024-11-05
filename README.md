@@ -10,16 +10,16 @@ The goal of Task 2 is to simulate the diagnostic reasoning and causality flow th
 ## Input
 Case_ID: A unique identifier for each case, used to locate the associated ground-truth causality report for validation.
 
-### A1 (First Impression): 
+#### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.
 
 #### A2 (Anatomical Location): 
 Specific anatomical locations relevant to the case, helping narrow down the area of focus and refining the diagnostic flow.
 
-### A3 (Thoracic Spine Levels): 
+#### A3 (Thoracic Spine Levels): 
 Information on thoracic spine levels involved in the case, providing additional context for spine-related findings.
 
-### A4 (Final Impression): 
+#### A4 (Final Impression): 
 The concluding impressions by radiologists after evaluating all available information. This represents the final diagnostic insight derived from the data.
 
 Each of these components contributes to the overall diagnostic flow, replicating a radiologist’s structured thought process.
