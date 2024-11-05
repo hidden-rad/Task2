@@ -1,0 +1,1 @@
+Causal Exploration: The finding of [nan] at location information [nan] and [nan], could be the result of pneumomediastinum. This condition occurs when air leaks into the mediastinum, which can cause several radiological findings including widening of the mediastinum, presence of subcutaneous emphysema, or visualization of free gas under the diaphragms."
