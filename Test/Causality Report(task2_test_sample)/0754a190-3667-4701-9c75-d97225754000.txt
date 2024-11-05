@@ -1,0 +1,6 @@
+Causal Exploration: Pneumonia, a type of lung infection, can cause abnormalities in the lungs that can be detected in a chest examination. The 'abnormally increased density area' in the apical, upper, middle, and lower zones could be indicative of pneumonia. This could be caused by the infection leading to inflammation and fluid build-up in the lungs. The finding of pneumonia at the location 'Parenchyme' and 'LLL(Left Lower Lobe)' (A2) between the 10th and 12th character (A3) supports this.
+
+For 'emphysema',
+Causal Exploration: Emphysema, a type of chronic obstructive pulmonary disease, can cause noticeable changes in the lungs' appearance. It can lead to one lung being 'prominently larger than the other' and the lungs not being 'well expanded and similar in volume'. This is due to the damage emphysema causes to the air sacs in the lungs, affecting their elasticity and leading to over-inflation. The finding of emphysema at the location 'Parenchyme' and 'LLL(Left Lower Lobe)' (A2) between the 10th and 12th character (A3) supports this. 
+
+These Causal Explorations relate the findings of A1 to A4 and provide a better understanding of the potential causes behind the detected abnormalities.
