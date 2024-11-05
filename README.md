@@ -8,7 +8,7 @@ Task 2 focuses on generating a diagnostic reasoning report that reflects the str
 ## Goal
 The goal of Task 2 is to simulate the diagnostic reasoning and causality flow that radiologists follow in real-world practice. This report will document each stage of diagnostic reasoning, from first impressions to final conclusions, using inputs that represent various steps of the radiologist's workflow. Participants are expected to construct a report that captures causality within the diagnostic reasoning process, creating a structured output that serves as a reference for complex case analysis.
 
-## Data
+## Data Format
 #### Case_ID: 
 A unique identifier for each case, used to locate the associated ground-truth causality report for validation.<br>
 Example: **083663b6-04df-418e-a959-3d0a331d3d81**
