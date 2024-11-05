@@ -1,7 +1,0 @@
-The word "effusion" in A4 is relevant to the statement "When trace the lateral margins of the lung to the costophrenic angles, costophrenic angle is blunting." in A5. 
-
-An effusion refers to an abnormal accumulation of fluid in various body cavities. In the context of the thorax, it often refers to the build-up of fluid between the pleura layers, which are the thin spaces separating the lungs from the chest wall. 
-
-The pleural effusion can cause the costophrenic angle, which is the angle between the rib cage and the diaphragm, to appear blunted or obscured on a chest radiograph. This is because the fluid occupies the space in the pleural cavity, pushing the lung upward, and thereby affecting the clear view of the costophrenic angle.
-
-So, the Causal Explanation is: The location information of the finding indicates that the effusion is present in both the left and right pleural cavities. This is causing the costophrenic angles to appear blunted, as the fluid build-up is obscuring the clear demarcation of these angles.
