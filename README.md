@@ -11,23 +11,23 @@ The goal of Task 2 is to simulate the diagnostic reasoning and causality flow th
 ## Input
 #### Case_ID: 
 A unique identifier for each case, used to locate the associated ground-truth causality report for validation.<br>
-Example: **a843748a-1575-4155-9c50-a44fdf7bea63**
+Example: **083663b6-04df-418e-a959-3d0a331d3d81**
 
 #### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.<br>
-Example: **pleural effusion atelectasis**
+Example: **Emphysema pleural effusion Pneumothorax**
 
 #### A2 (Anatomical Location): 
 Specific anatomical locations relevant to the case, helping narrow down the area of focus and refining the diagnostic flow.<br>
-Example: **'Parenchyme', 'RLL(Right Lower Lobe)','Mediastinum'**
+Example: **'Subcutaneous tissue', 'Parenchyme', 'RUL(Right Upper Lobe)', 'Parenchyme', 'RML(Right Middle Lobe)', 'Parenchyme', 'RLL(Right Lower Lobe)', 'Parenchyme', 'LUL(Left Upper Lobe)', 'Parenchyme', 'LLL(Left Lower Lobe)', 'Pleural', 'Right Pleural'**
 
 #### A3 (Thoracic Spine Levels): 
 Information on thoracic spine levels involved in the case, providing additional context for spine-related findings.<br>
-Example: **{'begin': 6, 'end': 11}**
+Example: **{'begin': 1, 'end': 12}**
 
 #### A4 (Final Impression): 
 The concluding impressions by radiologists after evaluating all available information. This represents the final diagnostic insight derived from the data. <br>
-Example: **'pleural effusion', 'atelectasis'**
+Example: **''emphysema’,'pleural effusion’,'pneumothorax'**
 
 Each of these components contributes to the overall diagnostic flow, replicating a radiologist’s structured thought process.
 
@@ -41,7 +41,7 @@ The output is a report that encapsulates the causality within the radiologists' 
 **Validation and Case Matching**: Match each report with the ground-truth data associated with the Case_ID to validate the accuracy and completeness of your causality reasoning.<br>
 
 ## Example Output Structure
-![Example for Task 2](./images/Task2_ex.png "Task 2 Overview")
+![Example for Task 2](./images/Task2_ex.png "Task 2 Example Structure")
 
 ## Evaluation
 To evaluate the effectiveness of the generated "Causal Exploration" output, the following metrics will be applied:
