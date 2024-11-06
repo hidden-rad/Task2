@@ -1,7 +1,7 @@
 # Task 2 : Regenerating Diagnostic Processes and Reports
 
 ## Introduction
-Task 2 focuses on generating a diagnostic reasoning report that reflects the structured diagnostic flow used by radiologists. Using crowd-sourced data that simulates the radiologist’s diagnostic process, participants are tasked with creating a causality-focused report based on the A5-ABCDE approach. This approach aligns with the standardized diagnostic structure in radiology and provides insights into the reasoning process from initial observations to final conclusions.
+Task 2 focuses on generating a diagnostic reasoning report that reflects the structured diagnostic flow used by radiologists. Using crowd-sourced data that simulates the radiologist’s diagnostic process, participants are tasked with creating a causality-focused report based on the causative relationships within the diagnostic reasoning flow. This approach aligns with the standardized diagnostic structure in radiology and provides insights into the reasoning process from initial observations to final conclusions.
 
 ![Diagram for Task 2](./images/task2_diagram.png "Task 2 Overview")
 
@@ -34,7 +34,8 @@ Example: **''emphysema’,'pleural effusion’,'pneumothorax'**
 Each of these components contributes to the overall diagnostic flow, replicating a radiologist’s structured thought process.
 
 ## Output
-The output is a report that encapsulates the causality within the radiologists' diagnostic reasoning process, structured according to the A5-ABCDE approach. This report should interpret and connect the various data points (A1-A4) in a way that mirrors the diagnostic thought process, revealing the causal relationships embedded in the medical observations. The report must begin with the fixed heading **"Causal Exploration:"** followed by the causality analysis text that reflects the diagnostic flow and reasoning. This structured format is required for consistency. 
+The output is a report that encapsulates the causality within the radiologists' diagnostic reasoning process, focusing on the causative relationships within the diagnostic flow. This report should interpret and connect the various data points (A1-A4) in a way that mirrors the diagnostic thought process, revealing the causal relationships embedded in the medical observations. The report must begin with the fixed heading "Causal Exploration:" followed by the causality analysis text that reflects the diagnostic flow and reasoning. This structured format is required for consistency.
+
 
 ## Process
 **Utilize Diagnostic Flow Data**: Use the diagnostic flow data (A1-A4) to reconstruct the reasoning path of a radiologist, simulating the process they might follow when examining similar cases.<br>
