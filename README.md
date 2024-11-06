@@ -34,7 +34,7 @@ Example: **''emphysema’,'pleural effusion’,'pneumothorax'**
 Each of these components contributes to the overall diagnostic flow, replicating a radiologist’s structured thought process.
 
 ## Output
-The output is a report that encapsulates the causality within the radiologists' diagnostic reasoning process, structured according to the A5-ABCDE approach. This report should interpret and connect the various data points (A1-A4) in a way that mirrors the diagnostic thought process, revealing the causal relationships embedded in the medical observations.
+The output is a report that encapsulates the causality within the radiologists' diagnostic reasoning process, structured according to the A5-ABCDE approach. This report should interpret and connect the various data points (A1-A4) in a way that mirrors the diagnostic thought process, revealing the causal relationships embedded in the medical observations. The report must begin with the fixed heading **"Causal Exploration:"** followed by the causality analysis text that reflects the diagnostic flow and reasoning. This structured format is required for consistency. 
 
 ## Process
 **Utilize Diagnostic Flow Data**: Use the diagnostic flow data (A1-A4) to reconstruct the reasoning path of a radiologist, simulating the process they might follow when examining similar cases.<br>
