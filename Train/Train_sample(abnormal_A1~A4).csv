@@ -1,4 +1,4 @@
-Case_ID,A1,A2,A3,A4
+Causal section,A1,A2,A3,A4
 a843748a-1575-4155-9c50-a44fdf7bea63,pleural effusion atelectasis,"'Parenchyme', 'RLL(Right Lower Lobe)', None, 'Pleural', 'Right Pleural', None","{'begin': 6, 'end': 11}","'pleural effusion', 'atelectasis'"
 5c4ca921-c455-490b-8aee-f0eedd982185,cardiomegaly pleural effusion,"'Pleural', 'Left Pleural', None, 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Ventricle', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Ventricle'","{'begin': 2, 'end': 12}","'cardiomegaly', 'pleural effusion'"
 77146cf0-116b-4cad-8277-dba368e22f3b,atelectasis nodule,"'Parenchyme', 'LLL(Left Lower Lobe)', None, 'Parenchyme', 'RML(Right Middle Lobe)', None","{'begin': 8, 'end': 9}, {'begin': 5, 'end': 5}","'atelectasis', 'nodule'"
