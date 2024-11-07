@@ -11,7 +11,7 @@ The goal of Task 2 is to simulate the diagnostic reasoning and causality flow th
 ## Data Format
 The data for Task 2 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
-### diagnostic flow data part
+### Hidden-RAD Input part
 #### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.<br>
 Example: **Emphysema pleural effusion Pneumothorax**
