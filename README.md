@@ -11,10 +11,7 @@ The goal of Task 2 is to simulate the diagnostic reasoning and causality flow th
 ## Data Format
 The data for Task 2 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
-#### Causal section: 
-A unique identifier for each case, used to locate the associated ground-truth causality report for validation.<br>
-Example: **083663b6-04df-418e-a959-3d0a331d3d81**
-
+### diagnostic flow data part
 #### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.<br>
 Example: **Emphysema pleural effusion Pneumothorax**
@@ -30,6 +27,12 @@ Example: **{'begin': 1, 'end': 12}**
 #### A4 (Final Impression): 
 The concluding impressions by radiologists after evaluating all available information. This represents the final diagnostic insight derived from the data. <br>
 Example: **''emphysema’,'pleural effusion’,'pneumothorax'**
+
+### Ground-truth part
+#### Causal section: 
+A unique identifier for each case, used to locate the associated ground-truth causality report for validation.<br>
+Example: **083663b6-04df-418e-a959-3d0a331d3d81**
+
 
 Each of these components contributes to the overall diagnostic flow, replicating a radiologist’s structured thought process.
 
