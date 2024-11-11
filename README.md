@@ -35,7 +35,7 @@ The data for Task 2 is provided in CSV format, containing relevant information f
 ### Input part
 #### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.<br>
-Example: **Emphysema pleural effusion Pneumothorax**
+Example: **Emphysema, pleural effusion, Pneumothorax**
 
 #### A2 (Anatomical Location): 
 Specific anatomical locations relevant to the case, helping narrow down the area of focus and refining the diagnostic flow.<br>
