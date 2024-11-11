@@ -47,7 +47,7 @@ Example: **{'begin': 1, 'end': 12}**
 
 #### A4 (Final Impression): 
 The concluding impressions by radiologists after evaluating all available information. This represents the final diagnostic insight derived from the data. <br>
-Example: **'emphysema','pleural effusion','pneumothorax'**
+Example: **'emphysema', 'pleural effusion', 'pneumothorax'**
 
 ### Ground-truth part
 #### Causal section: 
