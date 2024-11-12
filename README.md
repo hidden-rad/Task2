@@ -1,7 +1,7 @@
 # Task 2: Causal Explanation Generation from Structured Questionnaire Responses in Crowdsourced Chest X-ray Interpretation 
 
 ## Introduction
-In Task 2, this alternative approach, without requiring the MIMIC data license, focuses solely on the structured questionnaire responses from radiologists. It allows participants to generate causal explanations based on radiologist-provided answers rather than directly on MIMIC reports or image data, potentially broadening accessibility for participants while keeping the focus on interpretative radiology analysis.
+In Task 2, this alternative approach, without requiring the MIMIC data license, focuses solely on the structured questionnaire responses from radiologists. It allows to generate causal explanations based on radiologist-provided answers rather than directly on MIMIC reports or image data.
 
 ![Diagram for Task 2](./images/task2_diagram.png "Task 2 Overview")
 
