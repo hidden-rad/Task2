@@ -21,10 +21,6 @@ The input data for Task 2 consists of radiologists’ responses to a structured 
 
 It is a report generated based on 28 structured checklists targeting specific abnormalities and their locations. These questions validate whether detected abnormalities substantiate the final impression as agreed upon by radiologists. The answers for the checklists are also collected by radiologists’ crowdsourcing work.
 
-### Output
-
-The output of Task 2 is a causal explanation report generated. This report should provide a structured, explanatory narrative that confirms or denies the final impression, using the detailed anatomical and abnormality-specific information obtained through the training set. The report should demonstrate a logical, evidence-based approach, articulating how individual findings support or contradict the final impression.
-
 ### Objective
 
 The objective is to develop a system capable of producing a cohesive and clinically relevant explanation report that mirrors the reasoning and causal interpretation a radiologist might apply in a real-world diagnostic setting. Task performance will be evaluated by comparing the generated causal explanations against a ground-truth report, reflecting both the diagnostic accuracy and the interpretative quality of the causal reasoning.
