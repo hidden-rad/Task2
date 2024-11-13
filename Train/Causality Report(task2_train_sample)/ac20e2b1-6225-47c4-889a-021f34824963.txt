@@ -1,1 +1,0 @@
-Causal Exploration: A mass was detected (A1) in the Parenchyme of the Left Upper Lobe (A2), at the location specified by the coordinates {'begin': 5, 'end': 6} (A3). This mass could potentially cause an abnormal increase in density area, as mentioned in one of the statements of A5. Further medical investigation is needed to determine the nature and cause of this mass."
