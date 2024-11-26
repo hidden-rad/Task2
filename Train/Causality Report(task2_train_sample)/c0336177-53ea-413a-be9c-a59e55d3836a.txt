@@ -1,3 +1,0 @@
-Causal Exploration:
-
-The finding of a 'pleural effusion' was located in the 'Right Pleural' area within the characters 9 to 11 in the medical report. This is causally linked to the observed condition where the 'costophrenic angle is blunting'. This blunting of the costophrenic angle is a common symptom observed in cases of 'pleural effusion', where excess fluid builds up in the pleural space causing the angle to appear blunter than normal. Therefore, the 'pleural effusion' is the probable cause for the observed blunting of the costophrenic angle.

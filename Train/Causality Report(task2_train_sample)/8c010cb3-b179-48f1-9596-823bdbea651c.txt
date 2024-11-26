@@ -1,6 +1,0 @@
-Causal Exploration: 
-The finding of 'atelectasis' in the 'Right Lower Lobe' might be a result of airway obstruction which can be due to inhaled foreign bodies. This could lead to a decrease in volume of the right lung, as highlighted in the statement "When both lungs should be well expanded and similar in volume, one lung is not prominently larger than the other."
-
-Similarly, the finding of 'tumor' could be due to the abnormally increased density area found in the apical, upper, middle and lower zones of the lungs. 
-
-In conclusion, the findings of 'atelectasis' and 'tumor' are likely due to airway obstruction and abnormally increased density in the lungs, respectively. This Causal Exploration integrates these findings.
