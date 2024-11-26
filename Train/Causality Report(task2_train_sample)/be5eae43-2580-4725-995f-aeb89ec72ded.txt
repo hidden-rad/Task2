@@ -1,0 +1,3 @@
+"Causal Exploration: The relationship between the findings could be: 
+
+"Causal Exploration: The occurrence of 'congestion' is evidenced by the abnormal increase in density area found in the apical, upper, middle and lower zones of the lungs. This finding was located in the 'Parenchyme', 'RUL(Right Upper Lobe)', 'LLL(Left Lower Lobe)', 'LUL(Left Upper Lobe)', 'RLL(Right Lower Lobe)', and 'RML(Right Middle Lobe)'. This suggests that the congestion is widespread, affecting multiple sections of the lungs."

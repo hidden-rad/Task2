@@ -1,0 +1,1 @@
+Causal Exploration: Associating the discovery of 'pneumonia' with the assertions in the question and answer section.
