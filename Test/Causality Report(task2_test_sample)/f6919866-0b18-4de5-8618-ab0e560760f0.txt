@@ -1,5 +1,0 @@
-The relevant part in the discussion of 'cardiomegaly' is "When assessing cardiac size, the cardiothoracic ratio is over 50 and not in the normal range.". This statement is directly referring to an enlarged heart, which is what 'cardiomegaly' means. 
-
-The causal statement could be: 
-
-'Causal Exploration': The finding of 'cardiomegaly' in the locations ['Mediastinum', 'Middle Mediastinum(Heart)', 'Right Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Atrium', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Right Ventricle', 'Mediastinum', 'Middle Mediastinum(Heart)', 'Left Ventricle'] and a specific range {'begin': 4, 'end': 10} could be causally linked to the observed abnormal cardiothoracic ratio as stated in the medical report. This abnormal ratio indicates an enlargement of the heart, hence the diagnosis of 'cardiomegaly'. Further investigations may be necessary to determine the underlying cause of this condition.

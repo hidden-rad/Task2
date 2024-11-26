@@ -1,9 +1,0 @@
-In the list, both 'granuloma' and 'pneumothorax' are conditions found in the lungs. Let's explore how they relate to the QA.
-
-Granuloma is an inflammation that happens when the immune system tries to fight off foreign substances. It can be caused by a variety of conditions including infections, autoimmune diseases, and reactions to medications or infections. In this case, the granuloma could be a response to the condition mentioned in the statement "When trace down both main bronchi, no inhaled foreign body such as batteries, nails, coins, etc.". 
-
-On the other hand, pneumothorax refers to a collapsed lung which occurs when air leaks into the space between your lung and chest wall. This air pushes on the outside of your lung and makes it collapse. In the list of QA, the statement "When both lungs should be well expanded and similar in volume, one lung is not prominently larger than the other." could be hinting at the presence of a pneumothorax.
-
-The causal explanation for the findings could be:
-
-'Causal Exploration': The presence of a granuloma and pneumothorax in the patient's lungs could be due to an inhaled foreign body and an imbalance in lung volumes. The inflammation caused by the granuloma and the air leakage caused by the pneumothorax could be causing the symptoms observed. Further investigation is needed to confirm this causality and to determine appropriate treatment.
