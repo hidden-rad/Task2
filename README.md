@@ -28,6 +28,9 @@ The objective is to develop a system capable of producing a cohesive and clinica
 ## Data Format
 The data for Task 2 is provided in CSV format, containing relevant information for each case in a structured tabular form. Each row in the CSV file represents a single case, with the following columns:
 
+### Dataset Division
+The data is divided into Train and Test sets based on the diseases associated with each case and the frequency of those diseases. This division ensures a balanced representation of cases across the sets. Participants can choose to use the pre-divided Train and Test sets as provided, or they may combine the two sets and split the data according to their own criteria to suit their methodology or analysis goals.
+
 ### Input part
 #### A1 (First Impression): 
 Initial observations by radiologists. This data serves as the starting point for diagnostic reasoning and may include preliminary hypotheses based on observed findings.<br>
