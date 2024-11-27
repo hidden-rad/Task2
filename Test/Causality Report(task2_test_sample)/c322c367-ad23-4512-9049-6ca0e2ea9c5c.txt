@@ -1,1 +1,0 @@
-Causal Exploration offers insight into the relationship between the detection of cardiomegaly and the observed irregularities in the X-ray results.
