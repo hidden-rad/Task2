@@ -3,6 +3,9 @@
 ## Introduction
 In Task 2, this alternative approach, without requiring the MIMIC data license, focuses solely on the structured questionnaire responses from radiologists. It allows to generate causal explanations based on radiologist-provided answers rather than directly on MIMIC reports or image data.
 
+## Example Input/Output Structure
+![Example for Task 2](./images/Task2_ex.png "Task 2 Example Structure")
+
 ![Diagram for Task 2](./images/task2_diagram.png "Task 2 Overview")
 
 ## Task 2 Description
@@ -63,6 +66,5 @@ The output is a report that encapsulates the causality within the radiologists' 
 - **Format the Report**: Structure the causality analysis into a clear format. Create a section titled "Causal Exploration" where you will output the analyzed causality based on the diagnostic flow data. The report must begin with the fixed heading **"Causal Exploration:"** followed by the causality analysis text. This structure is mandatory to ensure consistency across submissions. This "Causal Exploration" section should include all identified causal links and inferred reasoning derived from the input data (A1-A4). Submit this "Causal Exploration" section, not the full report. <br>
 - **Validation and Case Matching**: Match each report with the ground-truth data associated with the 'Causal section' to validate the accuracy and completeness of your causality reasoning.<br>
 
-## Example Input/Output Structure
-![Example for Task 2](./images/Task2_ex.png "Task 2 Example Structure")
+
 
